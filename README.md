@@ -1,5 +1,5 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm MOUHIHA Mohamed][website]
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][linkedin]
+[<img height="30" src="https://www.linkedin.com/in/mouhiha-mohamed-a0657b1a3/" />][linkedin]
 
 
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
