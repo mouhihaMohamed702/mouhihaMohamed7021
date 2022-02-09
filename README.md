@@ -1,1 +1,4 @@
-# [Hi <img src="https://angular-control.vercel.app/home/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm MOUHIHA Mohamed][website]
+Hi there 👋 <br />
+ <br /> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouhihaMohamed702&show_icons=true&theme=merko) <br/>
+ <br /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouhihaMohamed702&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- **mouhihaMohamed/mouhihaMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" /> Here are some ideas to get you started: - 🔭 I’m currently working on ... - 🌱 I’m currently learning ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ..
